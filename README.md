@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on [Graphscript](https://github.com/emmohac/graphscript).
+- 🌱 I’m currently learning TypeScript, GraphQL and MongoDB.
+- 👯 I’m looking to collaborate on Back-end.
+- 💬 Ask me about REST, GraphQL, MongoDB and PostgreSQL. The more questions, the more I can learn.
+- 📫 How to reach me: huymt2@uci.edu
+- ⚡ Fun fact: I don't know React.
