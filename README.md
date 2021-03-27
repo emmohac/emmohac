@@ -22,4 +22,4 @@ My name is Huy Minh Tran and I graduated from UCI in 06/2020. Here is a bit abou
 - 👯 I’m looking to collaborate on Back-end.
 - 💬 Ask me about REST, GraphQL, MongoDB and PostgreSQL. The more questions, the more I can learn.
 - 📫 How to reach me: huymt2@uci.edu
-- ⚡ Fun fact: I don't know React and I'm trying to learn it.
+- ⚡ Fun fact: I don't know React and I'm learning it. I am also exploring Fastify.
