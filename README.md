@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Huy Minh Tran and I graduated from UCI in 06/2020. Here is a bit about me:
+My name is Huy Minh Tran and I graduated from UCI in 06/2020. I'm a Software Engineer at [Notarize](https://github.com/notarize). Here is a bit about me:
 
 - 🔭 I’m currently working on [Graphscript](https://github.com/emmohac/graphscript).
 - 🌱 I’m currently learning TypeScript, GraphQL and MongoDB.
 - 👯 I’m looking to collaborate on Back-end.
 - 💬 Ask me about REST, GraphQL, MongoDB and PostgreSQL. The more questions, the more I can learn.
-- 📫 How to reach me: huymt2@uci.edu
+- 📫 How to reach me: huyminhtran@protonmail.com
 - ⚡ Fun fact: I don't know React and I'm learning it. I am also exploring Fastify.
